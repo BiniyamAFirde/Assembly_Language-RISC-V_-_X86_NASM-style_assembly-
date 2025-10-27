@@ -8,7 +8,6 @@ msg: .asciz "Hello World"
 buffer: .space 100
 number: .word 42
 
-
 .text
 
 main:
